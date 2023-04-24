@@ -12,9 +12,9 @@ Pemrograman fungsional merupakan salah satu dari paradigma pemrograman yang meng
  5)	Abstraction: ini berasal dari kata abstraksi atau abstraction, merupakan metode yang tidak perlu mengetahui detail implementasi dari kelas lain. Contoh dalam menggunakan abstract class. yakni membuat kelas Vehicle dengan metode start() dan stop() yang diimplementasikan di kelas turunan seperti aircraft, car, dan motorcycle.
  
           dalam bidang aplikasi, teknologi:
- 	Game: digunakan untuk pengembangan game seperti mengatur system pada game.
- 	Aplikasi web: digunakan dalam kerangka kerja web seperti Ruby on Rails, Django, dan Flask. 
- 	Aplikasi mobile: digunakan dalam pengembangan aplikasi mobile seperti Android atau iOS. 
-	Robotika: digunakan dalam pengembangan robotika. biasanya setiap Robot memiliki banyak sensor dan aktuator yang perlu diatur dan dikelola. 
-	Sistem manajemen basis data: digunakan dalam pengembangan sistem manajemen basis data seperti MySQL dan Oracle. 
+ 	* Game: digunakan untuk pengembangan game seperti mengatur system pada game.
+ 	* Aplikasi web: digunakan dalam kerangka kerja web seperti Ruby on Rails, Django, dan Flask. 
+ 	* Aplikasi mobile: digunakan dalam pengembangan aplikasi mobile seperti Android atau iOS. 
+	* Robotika: digunakan dalam pengembangan robotika. biasanya setiap Robot memiliki banyak sensor dan aktuator yang perlu diatur dan dikelola. 
+	* Sistem manajemen basis data: digunakan dalam pengembangan sistem manajemen basis data seperti MySQL dan Oracle. 
 
