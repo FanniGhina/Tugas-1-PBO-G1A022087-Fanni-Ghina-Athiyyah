@@ -9,9 +9,7 @@ Pemrograman fungsional merupakan salah satu dari paradigma pemrograman yang meng
  3)	Inheritance: untuk membuat kelas baru yang mewarisi sifat-sifat dan perilaku dari kelas yang sudah ada. Ini disebut inheritance atau pewarisan. Misalnya, kita membuat suatu kelas karyawan , kemudian membuat kelas baru seperti Manager dan Staff yang dapat mewarisi sifat-sifat dari kelas karyawan.
  4)	Polymorphism: untuk membuat suatu metode yang sama dengan perilaku yang berbeda tergantung pada kelas yang digunakan. Ini disebut polimorfisme atau polymorphism. Misalnya, kita membuat metode eat() di kelas Animal, kemudian mengimplementasikan metode yang berbeda di kelas-kelas turunan seperti fish, chicken dan cow yang mana ini tergantung pada jenis makanannya masing-masing. 
  5)	Abstraction: ini berasal dari kata abstraksi atau abstraction, merupakan metode yang tidak perlu mengetahui detail implementasi dari kelas lain. Contoh dalam menggunakan abstract class. yakni membuat kelas Vehicle dengan metode start() dan stop() yang diimplementasikan di kelas turunan seperti aircraft, car, dan motorcycle.
-
-         Adapun dalam bidang aplikasi, teknologi:
-
+          dalam bidang aplikasi, teknologi:
  1)	Game: digunakan untuk pengembangan game seperti mengatur system pada game.
  2)	Aplikasi web: digunakan dalam kerangka kerja web seperti Ruby on Rails, Django, dan Flask. 
  3)	Aplikasi mobile: digunakan dalam pengembangan aplikasi mobile seperti Android atau iOS. 
